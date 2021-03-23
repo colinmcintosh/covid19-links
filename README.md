@@ -14,12 +14,16 @@ how to search your area.
 - [Philly Cases & Deaths (Phila.gov)](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/)
 - [Pennsylvania COVID-19 Dashboard](https://experience.arcgis.com/experience/ed2def13f9b045eda9f7d22dbc9b500e)
 - [Pennsylvania Early Warning Dashboard](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Monitoring-Dashboard.aspx)
+- [New Jersey COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 
 ## Vaccinations
 
 ### Trackers & Dashboards
 - [SF Vaccinations (SFGov.org)](https://data.sfgov.org/stories/s/COVID-19-Vaccinations/a49y-jeyc)
 - [USA Vaccine Rollout (NYT)](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html)
+- [California Vaccinations Dashboard](https://covid19.ca.gov/vaccines/#California-vaccines-dashboard)
+- [Pennsylvania Vaccinations Dashboard](https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx) (scroll down)
+- [New Jersey Vaccinations Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml) (click 'Vaccination Overview')
 
 ### Eligibility
 - [California](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/VaccineAllocationGuidelines.aspx)
