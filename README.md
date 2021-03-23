@@ -62,3 +62,6 @@ how to search your area.
   - Zuckerberg San Francisco General
   - Southeast Health Center
   - Maxine Hall Health Center
+
+### Other
+- [Bay Area Vaccine Hunters Facebook Group](https://www.facebook.com/groups/1384926655173056/)
