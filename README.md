@@ -60,6 +60,7 @@ how to search your area.
   - Non-Kaiser Patients: Set up a free Kaiser ID# at 1-800-464-4000 then secure the appointment by calling 1-866-454-8855.
 - [Sutter](https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine)
   - Sutter Patients Only. Free patient enrollment online.
+- [City College of SF (CCSF)](https://www.primarybio.com/r/ccsf-public)
 - [Costco](https://www.costco.com/covid-vaccine.html)
 - [Raplph's](https://www.ralphs.com/rx/guest/get-vaccinated)
 - [Walmart](https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid)
