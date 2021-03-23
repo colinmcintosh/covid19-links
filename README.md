@@ -43,6 +43,8 @@ how to search your area.
 - [Vaccine Spotter](https://www.vaccinespotter.org/)
 
 ### Providers
+
+#### Appointments
 - [California Statewide (MyTurn)](https://myturn.ca.gov/)
 - [Walgreens](https://www.walgreens.com/findcare/vaccination/covid-19/location-screening)
 - [CVS](https://www.cvs.com/immunizations/covid-19-vaccine)
@@ -64,11 +66,16 @@ how to search your area.
 - Other options:
   - Check your local independent pharmacies and grocery stores
 
-### Walk-ins
+#### Walk-ins
 - [SF Health Network](https://sfhealthnetwork.org/covid-19-vaccine/)
+  - Check eligibility details before going
   - Zuckerberg San Francisco General
   - Southeast Health Center
   - Maxine Hall Health Center
+- San Francisco Moscone Center
+  - Line starts at 3rd & Howard Street
+  - Walk-ins lines starts early in the morning for no-shows
+  - Non-eligible people allowed on some days (varies based on availability)
 
 ### Other
 - [Bay Area Vaccine Hunters Facebook Group](https://www.facebook.com/groups/1384926655173056/)
