@@ -21,6 +21,13 @@ how to search your area.
 - [SF Vaccinations (SFGov.org)](https://data.sfgov.org/stories/s/COVID-19-Vaccinations/a49y-jeyc)
 - [USA Vaccine Rollout (NYT)](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html)
 
+### Eligibility
+- [California](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/VaccineAllocationGuidelines.aspx)
+- [San Francisco](https://sf.gov/get-vaccinated-against-covid-19)
+- [Pennsylvania](https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx#distribution) (Does not include Philadelphia)
+- [Philly](https://www.phila.gov/2021-03-16-who-is-currently-eligible-to-receive-covid-19-vaccine-in-philadelphia/)
+- [New Jersey](https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/who-is-eligible-for-vaccination-in-new-jersey-who-is-included-in-the-vaccination-phases)
+
 ### Bots
  - Twitter Bots by [@byte_how](https://twitter.com/byte_how)
    - Note: 'Follow' and 'Turn on notifications' to get instant updates
