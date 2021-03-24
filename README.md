@@ -81,6 +81,10 @@ how to search your area.
   - Line starts at 3rd & Howard Street
   - Walk-ins lines starts early in the morning for no-shows
   - Non-eligible people allowed on some days (varies based on availability)
+- SFSU Mashouf Wellness Center
+  - Limited tickets distributed at 8am for end of day leftovers
+  - Arrive early to get a ticket
+  - Non-eligible people allowed
 
 ### Other
 - [Bay Area Vaccine Hunters Facebook Group](https://www.facebook.com/groups/1384926655173056/)
