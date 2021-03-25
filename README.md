@@ -88,5 +88,6 @@ how to search your area.
 
 ### Other
 - [Bay Area Vaccine Hunters Facebook Group](https://www.facebook.com/groups/1384926655173056/)
+- [Waste Reduction Directory (waitlist directory)](https://docs.google.com/spreadsheets/d/1wgbxRuPkexAQGp5BnyHgb0wdaK92spdZvQAwuEM6THc/edit#gid=1076609156)
 
 Copyright 2021 Colin McIntosh
