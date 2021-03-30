@@ -62,7 +62,7 @@ how to search your area.
   - Sutter Patients Only. Free patient enrollment online.
 - [City College of SF (CCSF)](https://www.primarybio.com/r/ccsf-public)
 - [Costco](https://www.costco.com/covid-vaccine.html)
-- [Raplph's](https://www.ralphs.com/rx/guest/get-vaccinated)
+- [Ralph's](https://www.ralphs.com/rx/guest/get-vaccinated)
 - [Walmart](https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid)
 - [SF Health Network](https://sfhealthnetwork.org/covid-19-vaccine/)
   - Call for appointments only
